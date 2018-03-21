@@ -3,7 +3,7 @@
 We propose to use the Multilayer Perceptron (MLP) model to handle both the ironic tweet detection task. The figure bellow presents an overview of our model architecture including an input layer, two hidden layers and a softmax output layer.
 
 <p align="center">
-<img src="https://www.dropbox.com/s/ekhaya97wpmvn3p/mlp.png" alt="Overview of our model architecture for irony detection in tweets" width="80%"/>
+<img src="https://github.com/NIHRIO/IronyDetectionInTwitter/blob/master/description/mlp.png" alt="Overview of our model architecture for irony detection in tweets" width="80%"/>
 </p>
 
 Given a tweet, the input layer represents the tweet by a feature vector which concatenates <b>lexical</b>, <b>syntactic</b>, <b>semantic</b> and <b>polarity</b> feature representations.
