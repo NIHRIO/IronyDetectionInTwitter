@@ -30,4 +30,5 @@ One the packages are installed, you can run the code as follows:
   
 For each command, it will produce a file for the corresponding subtask, which consists of the predicted labels for the test data.   
   
-## Customization You can also customize the model to other classification tasks using the code provided in `src/MLP.py`
+## Customization
+You can also customize the model to other classification tasks using the code provided in `src/MLP.py`
