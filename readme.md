@@ -10,7 +10,7 @@ This program provides the implementation of our model for the SemEval 2018 Task 
           year      = {2018}
     }
 
-> **Brief description:** In this paper, we propose to use a simple neural network architecture of Multilayer Perceptron with various types of input features including lexical, syntactic, semantic and polarity features (***see the following figure***). Our system achieves very high performance in both subtasks of binary and multi-class irony detection in tweets. In particular, we rank at least **<u>fourth** using the accuracy metric and **<u>sixth** using the F1 metric. 
+> **Brief description:** In this paper, we propose to use a simple neural network architecture of Multilayer Perceptron with various types of input features including lexical, syntactic, semantic and polarity features (***see the following figure***). Our system achieves very high performance in both subtasks of binary and multi-class irony detection in tweets. In particular, we rank at least **<u>third** using the accuracy metric and **<u>fifth** using the F1 metric. 
 
 <p align="center">
     <img src="https://github.com/NIHRIO/IronyDetectionInTwitter/blob/master/description/mlp.png" alt="Overview of our model architecture" width="50%"/>
