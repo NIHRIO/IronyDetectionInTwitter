@@ -21,11 +21,11 @@ Please cite the paper above when the model is used to produce published results 
 We would highly appreciate having your bug reports, comments and suggestions. As a free open-source implementation, the implementation is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
 ## Setup and Reproduce the results
-To run the code, you need the following software packages:
+To run the code, you need the following software packages by running **`pip install -r requirements.txt`**:
 
 - `python 2.7`
 - `emoji 0.4.5`
-- `sklearn 0.19.1`
+- `scikit-learn 0.19.1`
 - `spacy 2.0.9`
 - `nltk 3.2.5`
 - `tensorflow 1.4`
